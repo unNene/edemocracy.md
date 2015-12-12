@@ -1,4 +1,4 @@
-package com.iftodi.dan.edemocrasy;
+package com.iftodi.dan.edemocracy;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

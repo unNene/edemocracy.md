@@ -1,4 +1,4 @@
-package com.iftodi.dan.edemocrasy;
+package com.iftodi.dan.edemocracy;
 /**
  * Created by daniftodi on 12/9/15.
  */

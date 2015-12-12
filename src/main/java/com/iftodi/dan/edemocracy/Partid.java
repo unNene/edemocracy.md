@@ -1,4 +1,4 @@
-package com.iftodi.dan.edemocrasy;
+package com.iftodi.dan.edemocracy;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
